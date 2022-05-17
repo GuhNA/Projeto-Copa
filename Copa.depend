@@ -1,0 +1,36 @@
+# depslib dependency file v1.0
+1651163651 source:p:\desktop\c++\copa\jogador.cpp
+	"Jogador.hpp"
+
+1650677642 p:\desktop\c++\copa\jogador.hpp
+	"Includes.hpp"
+
+1651118709 p:\desktop\c++\copa\includes.hpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<ctime>
+
+1651168907 source:p:\desktop\c++\copa\time.cpp
+	"Time.hpp"
+	"funcoesGerais.hpp"
+
+1651166271 p:\desktop\c++\copa\time.hpp
+	"Jogador.hpp"
+
+1652830473 source:p:\desktop\c++\copa\copa.cpp
+	"Copa.hpp"
+	"funcoesGerais.hpp"
+
+1652829619 p:\desktop\c++\copa\copa.hpp
+	"Time.hpp"
+
+1651164607 source:p:\desktop\c++\copa\funcoesgerais.cpp
+	"funcoesGerais.hpp"
+
+1651161792 p:\desktop\c++\copa\funcoesgerais.hpp
+	"Includes.hpp"
+
+1652829971 source:p:\desktop\c++\copa\main.cpp
+	"Copa.hpp"
+
